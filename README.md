@@ -1,2 +1,2 @@
 # Algoritmo
-alumno jheferson yuquilema
+alumno jheferson yuquilema T-101 A1
